@@ -1,6 +1,7 @@
 /* 
  * INSTAGRAM AUTO CAPTIONER
  * not a serious tool, and definitely not production ready.
+ * PSA this should only be used on photos you have consent to use / own
  *
 */
 
